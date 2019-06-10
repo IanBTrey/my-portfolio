@@ -1,0 +1,36 @@
+
+
+body{
+  background-image: url(https://media3.giphy.com/media/kvLscg1JZ9dM4/200w.webp?cid=790b76115cfe83005179313763d110f9&rid=200w.webp);
+}
+.tt{
+  color:#ff0066;
+  font-size: 20px;
+}
+h1{
+  color:red ;
+}
+h2{
+  color: #ff0066;
+  font-size: 55px;
+  font-size: ;
+  font-style: ;
+}
+marquee, .text-muted{
+color: #ff0066;
+font-size: 55px;
+}
+p{
+  color: #ff0066;
+  font-size: 20px;
+}
+ul{
+  color: #ff0066;
+}
+li{
+  color: #ff0066;
+}
+a{
+  color: #ff0066;
+  font-size: 16px;
+}
